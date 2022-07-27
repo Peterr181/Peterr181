@@ -14,7 +14,8 @@ I like to spend my free time training on the gym, playing some video games and d
 
 💻 Tech Stack:
 
-![obraz](https://user-images.githubusercontent.com/102172769/177975522-cc4e20b6-5884-42b4-8513-46b8e3961f6d.png) ![obraz](https://user-images.githubusercontent.com/102172769/177975544-8500dc7c-0ea1-4655-9594-cd2efbccd234.png) ![obraz](https://user-images.githubusercontent.com/102172769/177975559-a70fef7f-cb33-4c6c-b722-91bd43a9783a.png) ![obraz](https://user-images.githubusercontent.com/102172769/181372216-3da65f60-abae-4b1e-905f-017104eab8d9.png)
+![obraz](https://user-images.githubusercontent.com/102172769/177975522-cc4e20b6-5884-42b4-8513-46b8e3961f6d.png) ![obraz](https://user-images.githubusercontent.com/102172769/177975544-8500dc7c-0ea1-4655-9594-cd2efbccd234.png) ![obraz](https://user-images.githubusercontent.com/102172769/177975559-a70fef7f-cb33-4c6c-b722-91bd43a9783a.png) ![obraz](https://user-images.githubusercontent.com/102172769/181372216-3da65f60-abae-4b1e-905f-017104eab8d9.png) ![obraz](https://user-images.githubusercontent.com/102172769/181372309-aa72b4e1-f9f7-47fa-aa55-07ed2b271eb5.png)
+
 
 
 
