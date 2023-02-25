@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate Front-end developer from Poland</h3>
+<p><img src="https://user-images.githubusercontent.com/102172769/221325317-7ed0cc73-bd0b-4277-bf5c-4e6f1fc60361.gif" alt="peterr181" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterr181&label=Profile%20views&color=0e75b6&style=flat" alt="peterr181" /> </p>
 
@@ -12,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://peter-zerdzinski.netlify.app/](https://peter-zerdzinski.netlify.app/)
 
 - 📫 How to reach me **hustlax181@gmail.com**
-<p><img src="https://user-images.githubusercontent.com/102172769/221325317-7ed0cc73-bd0b-4277-bf5c-4e6f1fc60361.gif" alt="peterr181" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/pittdw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pittdw/" height="30" width="40" /></a>
