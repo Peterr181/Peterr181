@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate Front-end developer from Poland</h3>
-<p><img align="center" src="https://user-images.githubusercontent.com/102172769/221325317-7ed0cc73-bd0b-4277-bf5c-4e6f1fc60361.gif" alt="peterr181" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/102172769/221325317-7ed0cc73-bd0b-4277-bf5c-4e6f1fc60361.gif" alt="peterr181" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterr181&label=Profile%20views&color=0e75b6&style=flat" alt="peterr181" /> </p>
 
