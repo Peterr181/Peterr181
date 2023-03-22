@@ -34,6 +34,4 @@
 ![My Skills](https://skillicons.dev/icons?i=nodejs,threejs)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterr181&show_icons=true&locale=en&layout=compact" alt="peterr181" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterr181&show_icons=true&locale=en" alt="peterr181" /></p>
