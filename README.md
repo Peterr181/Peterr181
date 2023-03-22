@@ -16,7 +16,7 @@
 
 ## Projects I have done but I have them in my private repository:
 
-⚙ YouTube clone, Netflix clone, email creator. 
+⚙ Netflix clone(still in progress), Email creator(typescript)
 
 
 <h3 align="left">Connect with me:</h3>
