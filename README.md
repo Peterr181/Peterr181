@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **AILOVER project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, PHP**
 
 - 👨‍💻 All of my projects are available at [https://peter-zerdzinski.netlify.app/](https://peter-zerdzinski.netlify.app/)
 
-- 💬 Ask me about **React, Next.js, HTML, CSS , JS, Java and many more**
+- 💬 Ask me about **React, Next.js, HTML, CSS , JS, TypeScript, Electron and many more**
 
 - 📫 How to reach me **hustlax181@gmail.com**
 
