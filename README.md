@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AILOVER project**
+- 🔭 I’m currently working on **engineering thesis**
 
 - 🌱 I’m currently learning **Next.js, PHP**
-
-- 👨‍💻 All of my projects are available at [https://peter-zerdzinski.netlify.app/](https://peter-zerdzinski.netlify.app/)
 
 - 💬 Ask me about **React, Next.js, HTML, CSS , JS, TypeScript, Electron and many more**
 
