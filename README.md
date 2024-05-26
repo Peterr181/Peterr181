@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **engineering thesis**
 
-- 🌱 I’m currently learning **Next.js, PHP**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Next.js, HTML, CSS , JS, TypeScript, Electron and many more**
 
