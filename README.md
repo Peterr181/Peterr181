@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hustlax181@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with mee:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/pittdw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pittdw/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/n4cho181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4cho181" height="30" width="40" /></a>
