@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Next.js, HTML, CSS , JS, TypeScript, Electron and many more**
 
-- 📫 How to reach me **hustlax181@gmail.com**
+- 📫 How to reach me **piotrzerdzinski099@gmail.com**
 
 <h3 align="left">Connect with mee:</h3>
 <p align="left">
