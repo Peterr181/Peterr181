@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **finding new job**
+- 🔭 I’m currently working on **finding new job.**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Python Django.**
 
 - 💬 Ask me about **React, Next.js, HTML, CSS , JS, TypeScript, Electron and many more**
 
 - 📫 How to reach me **piotrzerdzinski099@gmail.com**
 
-<h3 align="left">Connect with mee:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/pittdw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pittdw/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/n4cho181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n4cho181" height="30" width="40" /></a>
