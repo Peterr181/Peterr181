@@ -51,3 +51,11 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=peterr181&label=Profile%20views&color=0e75b6&style=flat" alt="peterr181" /> </p>
 
 
+<h3 align="left">The Best Personal Project - Gymero - React, TypeScript, SCSS, MUI, Node.js (Express.js) mySQL</h3>
+
+
+
+https://github.com/user-attachments/assets/f359448b-3128-4bc6-9b95-cd68a19d17b1
+
+
+
